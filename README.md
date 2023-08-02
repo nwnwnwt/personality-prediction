@@ -1,4 +1,11 @@
+# To Run:
 
+```
+pip install scikit-learn
+
+pip install flask
+
+```
 # personality-prediction!
 
 ![Screenshot (307)](https://github.com/nwnwnwt/personality-prediction/assets/76642739/e5f2b8c0-4ea8-431e-bddf-cc7a57a56e35)
